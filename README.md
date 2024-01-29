@@ -1,1 +1,1 @@
-# simple-github-pages-template
+# Capstone Project Public Profile
